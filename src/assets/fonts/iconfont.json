@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "348615",
+      "name": "level-up",
+      "font_class": "levelup",
+      "unicode": "eb47",
+      "unicode_decimal": 60231
+    },
+    {
+      "icon_id": "929519",
+      "name": "level-down",
+      "font_class": "leveldown",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    }
+  ]
+}
